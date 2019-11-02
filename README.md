@@ -1,2 +1,1 @@
-# Word-Auto-Suggest-System
-Data Structures Mini-Project
+# DS_Mini_Project
