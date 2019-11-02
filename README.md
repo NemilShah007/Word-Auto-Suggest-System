@@ -1,1 +1,2 @@
-# DS_Mini_Project
+# Data Structures Mini Project
+Data Structure used - Trie
